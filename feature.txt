@@ -1,3 +1,8 @@
 This is the new feature we're working on.
+ HEAD
 It will be merged into the main branch later.
 This line was added in the main branch to enhance the feature description.
+
+It will be merged into the main branch later
+
+ fix
